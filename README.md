@@ -1,5 +1,6 @@
-## Hi, I'm Elizabeth 👋
-
+<div align="center">
+    <img src="assets/banner.png" width="700">
+</div>
 <!--
 **eeliiNn/eeliiNn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
