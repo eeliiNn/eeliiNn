@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/banner.png" width="700">
+    <img src="assets/banner.png" width="max-width">
 </div>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&pause=1000&color=F731D7&center=true&vCenter=true&width=441&lines=%22The+elevator+to+success+is+out+of+;order.+You'll+have+to+use+the+stairs...;one+step+at+a+time.%22+-+Joe+Girard)
