@@ -3,7 +3,6 @@
     <p align="center">
         <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=26&pause=1000&color=DB1659&center=true&vCenter=true&width=461&height=41&lines=%22The+elevator+to+success+is+out+of+;order.+You'll+have+to+use+the+stairs...;one+step+at+a+time.%22+-+Joe+Girard" alt="Typing SVG" /></a>
     </p>
-    <div>
     <table>
     <tr>
         <td width="50%">
@@ -15,8 +14,6 @@
             </td>
     </tr>
     </table>
-</div>
-</div>
 
 <img src="https://img.shields.io/badge/💻_Programming_Languages-DB1659?style=for-the-badge"/>
 <img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,js"/>
@@ -42,7 +39,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,androidstudio" />
 
 <br>
-
 </div>
 
 **Also experienced with:** JavaFX • Swing • SQL Server • Windows Server • Active Directory • n8n
