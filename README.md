@@ -5,20 +5,45 @@
     </p>
 </div>
 
-<h4 style="color: rgb(219 22 89)"> Programming Languages </h4>
-<img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,js" />
+<img src="https://img.shields.io/badge/💻_Programming_Languages-DB1659?style=for-the-badge"/>
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<br><br>
 
-### Backend
+<img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,js"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🎨_Frontend-DB1659?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/⚙️_Backend-DB1659?style=for-the-badge"/>
+
+<br><br>
+
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs" />
 
-### Databases
+<br><br>
+
+<img src="https://img.shields.io/badge/🗄️_DataBases-DB1659?style=for-the-badge"/>
+
+<br><br>
+
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-### Development Tools
+<br><br>
+
+<img src="https://img.shields.io/badge/⚒️_Development_Tools-DB1659?style=for-the-badge"/>
+
+<br><br>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,androidstudio" />
+
+<br><br>
 
 </div>
 
