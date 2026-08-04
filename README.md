@@ -1,17 +1,14 @@
 <div>
     <table>
-        <thead>
-            <tr>🌷 About Me</tr>
-            <tr></tr>
-        </thead>
-        <tbody>
-            <tr>¡Hola! Soy Elizabeth, una desarrolladora de software junior de El Salvador apasionada por crear software que tenga un impacto.
-Disfruto construyendo sistemas de backend, APIs REST, aplicaciones de escritorio y aplicaciones de Android mientras exploro continuamente nuevas tecnologías. Actualmente, estoy cursando el tercer y ultimo año de bachillerato técnico vocacional en Desarrollo de Software.
-Cuando no estoy programando, normalmente estoy aprendiendo algo nuevo o mejorando uno de mis proyectos personales.</tr>
-            <tr>
-                <img src="assets/calcifer.gif" width="40%">
-            </tr>
-        </tbody>
+    <tr>
+        <td width="65%">
+        🌷 About Me
+         ¡Hola! Soy Elizabeth, una desarrolladora de software junior de El Salvador apasionada por crear software que tenga un impacto. Disfruto construyendo sistemas de backend, APIs REST, aplicaciones de escritorio y aplicaciones Android mientras exploro continuamente nuevas tecnologías. Actualmente curso el tercer y último año de Bachillerato Técnico Vocacional en Desarrollo de Software.Cuando no estoy programando, normalmente estoy aprendiendo algo nuevo o mejorando uno de mis proyectos personales.
+        </td>
+        <td width="35%" align="center">
+            <img src="assets/calcifer.gif" width="250"/>
+        </td>
+    </tr>
     </table>
 </div>
 
