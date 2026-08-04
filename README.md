@@ -38,7 +38,13 @@
 <img src="https://img.shields.io/badge/⚒️_Development_Tools-DB1659?style=for-the-badge"/> <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,androidstudio" />
 
+<img src="https://img.shields.io/badge/◆_Also_Experienced_with:-DB1659?style=for-the-badge"/> <br>
+<li>
+    <ul>🖥️ JavaFX • Swing</ul>
+    <ul>🗄️ SQL Server </ul>
+    <ul>🖧 Windows Server • Active Directory</ul>
+    <ul>⚡ n8n </ul>
+</li>
+
 <br>
 </div>
-
-**Also experienced with:** JavaFX • Swing • SQL Server • Windows Server • Active Directory • n8n
