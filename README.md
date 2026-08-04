@@ -15,27 +15,27 @@
     </tr>
     </table>
 
-<img src="https://img.shields.io/badge/💻_Programming_Languages-DB1659?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻_Programming_Languages-DB1659?style=for-the-badge"/> <br>
 <img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,js"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/🎨_Frontend-DB1659?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎨_Frontend-DB1659?style=for-the-badge"/> <br>
 <img src="https://skillicons.dev/icons?i=html,css,react"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/⚙️_Backend-DB1659?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚙️_Backend-DB1659?style=for-the-badge"/> <br>
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs" />
 
 <br>
 
-<img src="https://img.shields.io/badge/🗄️_DataBases-DB1659?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🗄️_DataBases-DB1659?style=for-the-badge"/> <br>
 <img src="https://skillicons.dev/icons?i=mysql" />
 
 <br>
 
-<img src="https://img.shields.io/badge/⚒️_Development_Tools-DB1659?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚒️_Development_Tools-DB1659?style=for-the-badge"/> <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,androidstudio" />
 
 <br>
