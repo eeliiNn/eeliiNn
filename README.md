@@ -5,7 +5,7 @@
     </p>
 </div>
 
-### Programming Languages
+<h4 style="color: rgb(219 22 89)"> Programming Languages </h4>
 <img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,js" />
 
 ### Frontend
