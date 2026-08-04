@@ -1,8 +1,9 @@
 <div align="center">
     <img src="assets/banner2.0.png" width="max-width">
+    <p align="center">
+        ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=26&pause=1000&color=DB1659&center=true&vCenter=true&width=461&height=41&lines=%22The+elevator+to+success+is+out+of+;order.+You'll+have+to+use+the+stairs...;one+step+at+a+time.%22+-+Joe+Girard)
+    </p>
 </div>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=26&pause=1000&color=DB1659&center=true&vCenter=true&width=461&height=41&lines=%22The+elevator+to+success+is+out+of+;order.+You'll+have+to+use+the+stairs...;one+step+at+a+time.%22+-+Joe+Girard)
 
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,js" />
