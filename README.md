@@ -1,4 +1,9 @@
-<div>
+<div align="center">
+    <img src="assets/banner2.0.png" width="100%">
+    <p align="center">
+        <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=26&pause=1000&color=DB1659&center=true&vCenter=true&width=461&height=41&lines=%22The+elevator+to+success+is+out+of+;order.+You'll+have+to+use+the+stairs...;one+step+at+a+time.%22+-+Joe+Girard" alt="Typing SVG" /></a>
+    </p>
+    <div>
     <table cellspacing="0" cellpadding="0">
     <tr>
         <td width="60%">
@@ -11,12 +16,6 @@
     </tr>
     </table>
 </div>
-
-<div align="center">
-    <img src="assets/banner2.0.png" width="100%">
-    <p align="center">
-        <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=26&pause=1000&color=DB1659&center=true&vCenter=true&width=461&height=41&lines=%22The+elevator+to+success+is+out+of+;order.+You'll+have+to+use+the+stairs...;one+step+at+a+time.%22+-+Joe+Girard" alt="Typing SVG" /></a>
-    </p>
 </div>
 
 <img src="https://img.shields.io/badge/💻_Programming_Languages-DB1659?style=for-the-badge"/>
