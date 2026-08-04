@@ -9,7 +9,7 @@
 Disfruto construyendo sistemas de backend, APIs REST, aplicaciones de escritorio y aplicaciones de Android mientras exploro continuamente nuevas tecnologías. Actualmente, estoy cursando el tercer y ultimo año de bachillerato técnico vocacional en Desarrollo de Software.
 Cuando no estoy programando, normalmente estoy aprendiendo algo nuevo o mejorando uno de mis proyectos personales.</tr>
             <tr>
-                <img src="assets/calcifer.mp4" widht="40%">
+                <img src="assets/calcifer.gif" width="40%">
             </tr>
         </tbody>
     </table>
